@@ -1,4 +1,4 @@
-package spittr.web;
+package spitter.web;
 
 
 import org.junit.Test;

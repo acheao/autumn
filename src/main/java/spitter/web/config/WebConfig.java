@@ -1,4 +1,4 @@
-package spittr.config;
+package spitter.web.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
