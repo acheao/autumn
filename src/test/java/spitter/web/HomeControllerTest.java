@@ -3,7 +3,6 @@ package spitter.web;
 
 import org.junit.Test;
 import org.springframework.test.web.servlet.MockMvc;
-import spitter.web.HomeController;
 
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.view;
