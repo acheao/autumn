@@ -28,6 +28,7 @@ public class HomeController {
         redis.opsForValue().append("20200606","20200607");
 //        redisConnectionFactory.getConnection().
         Map map =  new HashMap();
+
         return "home";
     }
 }
